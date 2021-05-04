@@ -1331,6 +1331,7 @@ header.setEditable = function (editable) {
 
 	return true;
 };
+
 /**
  * @description This module is used to check if elements are visible or not.
  */

@@ -3656,6 +3656,7 @@ header.setEditable = function (editable) {
 
 	return true;
 };
+
 /**
  * @description This module is used for bindings.
  */
